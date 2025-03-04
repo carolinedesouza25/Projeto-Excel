@@ -1,2 +1,0 @@
-1. Inicialmente, foi feito o upload no excel das três bancos de dados extraídas desse repositório no github; 
-2. Em seguida, o editor do Power Query foi utilizado para tranformar os dados. Nesse processo foram verificados se existiam valores nulos e a distribuição das colunas entre valores distintos e nulos
