@@ -1,5 +1,5 @@
-### **[Título do Projeto]**
-*Exemplo: Dashboard de Análise de Vendas e Rentabilidade*
+### **Análise da relação entre as preferências do consumidor e vendas - Blinkit**
+
 
 #### **1. Objetivo do Projeto**
 Explicite o **problema de negócios** que você estava tentando resolver ou a **oportunidade** que você buscou explorar. Descreva o **contexto** e a **importância do projeto** para os stakeholders da empresa.
