@@ -2,21 +2,27 @@
 
 
 #### **1. Objetivo do Projeto**
-Esse projeto tem como objetivo a limpeza, tranformação e análise dos dados 
- da empresa Blinkit, marketplace que vende produtos de diversas segmentações, como produtos de higiene pessoal, eletrônicos, flores etc. Diante disso, com o objetivo de otimizar o processo de vendas com base em dados quantitativos, com foco na relação entre o total de vendas e outras variáveis relevantes a otimização das operações da marca, serão estudadas as seguintes questões: 
+Este projeto tem como objetivo a limpeza, transformação e análise dos dados da empresa Blinkit, um marketplace que vende produtos de diversas categorias, como higiene pessoal, eletrônicos, flores, entre outros. Dessa forma, busca-se otimizar o processo de vendas com base em dados quantitativos, focando na relação entre o total de vendas e outras variáveis relevantes para entender a situação atual da organização. A seguir, são explicitadas as métricas e questões de estudo consideradas importantes:
+
+ **KPIs:**
+ - *Total de Vendas*: total de receita resultante de todos os itens vendidos;
+ - *Receita Média por Venda*: a média das receitas por venda;
+ -  *Número de Itens Vendidos*: a quantidade total de produtos vendidos;
+ -  *Avaliação Média do Produto*: nota média atribuída pelos consumidores aos produtos.
+
+**Questões Analisadas:**
+
 
 *Total de Vendas por gordura adicionada:*
  - Objetivo: Analisar o impacto do teor de gordura adicionada no total de vendas;
- - Relação entre KPIs: Entender como as Vendas Médias, Número de Itens, Avaliação Média do Produto interagem com a Variação do Teor de Gordura Adicionada nos alimentos.
 
+   
 *Total de Vendas por Tipo de Produto:*
 - Objetivo: Identificar a porcentagem das vendas de diferentes produtos alimentícios em relação ao total de vendas;
-- Relação entre KPIs: Entender como as Vendas Médias, Número de Itens, Avaliação Média do Produto interagem com a Variação do Teor de Gordura Adicionada nos alimentos.
 
 
 *Comparação do Total de Vendas por Loja segmentada pela Variação do Teor de Gordura Adicionada:*
 - Objetivo: Segmentar o Total de Vendas de cada Loja com base no Teor de Gordura Adicionada em cada produto;
-- Relação entre KPIs: Entender como as Vendas Médias, Número de Itens, Avaliação Média do Produto interagem com a Variação do Teor de Gordura Adicionada nos alimentos.
 
 *Segmentação Demográfica por Loja:*
 - Objetivo: Entender como a idade e tipo de loja influenciam nas decisões de compra dos consumidores e, consequentemente, no Total de Vendas. 
@@ -33,18 +39,29 @@ Esse projeto tem como objetivo a limpeza, tranformação e análise dos dados
   
 #### **2. Descrição dos Dados**
 O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no repositório do projeto. Com base nisso, é importante frisar que a base de dados está em inglês e, para facilitar o entendimento, as informações de cada coluna serão explicadas abaixo: 
-- Item Fat Content: Teor de Gordura Adicionada presente no produto;
-- Item Identifier: Código de identificação do produto;
-- Item Type: Tipo do produto;
-- Outlet Establishment Year: Ano de inauguração da loja; 
-- Outlet Identifier: Código de identificação da loja; 
-- Outlet Location Type: Tipo de loja, por exemplo, "Tier 1" se refere a estabelecimentos que constituem um prédio inteiro, já "Tier 2" representa uma loja que ocupa apenas um andar de um prédio; 
-- Outlet Size: Tamanho da loja; 
-- Outlet Type: Tipo da loja; 
-- Item Visibility: Visibilidade do produto (refere-se a capacidade que os consumidores tem em descobrir, identificar e se interessar pelo produto); 
-- Item Weight: Peso do produto;
-- Sales: Total de Vendas;
-- Rating: Avaliação Média do Produto pelos consumidores. 
+- *Item Fat Content*: Teor de Gordura Adicionada presente no produto;
+  
+- *Item Identifier*: Código de identificação do produto;
+  
+- *Item Type*: Tipo do produto;
+  
+- *Outlet Establishment Year*: Ano de inauguração da loja;
+  
+- *Outlet Identifier*: Código de identificação da loja;
+  
+- *Outlet Location Type*: Tipo de localização da loja. Por exemplo, "Tier 1" refere-se a estabelecimentos que ocupam um prédio inteiro, enquanto "Tier 2" representa lojas que ocupam apenas um andar de um prédio;
+  
+- *Outlet Size*: Tamanho da loja;
+  
+- *Outlet Type*: Tipo da loja;
+  
+- *Item Visibility*: Visibilidade do produto (refere-se a capacidade que os consumidores tem em descobrir, identificar e se interessar pelo produto);
+  
+- *Item Weight*: Peso do produto;
+  
+- *Sales*: Total de Vendas;
+  
+- *Rating*: Média das avaliações do Produto pelos consumidores. 
 
 se tem valores nulos ou erros
 
