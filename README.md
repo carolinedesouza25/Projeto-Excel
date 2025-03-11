@@ -182,7 +182,21 @@ Image 2
 Image 3
 
 #### **3. Principais achados**
-Resumo do que foi encontrado (focar em negócios e achados desse tipo)
+Após a organização e elaboração de gráficos, como resultado final da análise foi estruturado um dashboard interativo, anexado nesse repositório e representado na Imagem 4: 
+
+![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
+
+Imagem 4
+
+- 
+![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
+
+Imagem 5
+
+- 
+![Captura de tela 2025-03-11 134100](https://github.com/user-attachments/assets/dc76ed80-e0df-42ef-9f58-05c1b84bd741)
+
+Imagem 6
 
 #### **4. Sugestão de priorização dos problemas encontrados**
-GUT 
+SWOT
