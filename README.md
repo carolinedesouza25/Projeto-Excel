@@ -105,11 +105,34 @@ O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no 
   
 - *Sales*: Total de Vendas;
   
-- *Rating*: Média das avaliações do Produto pelos consumidores. 
+- *Rating*: Média das avaliações do Produto pelos consumidores.
+
+**Limpeza dos dados:**
+
+Nesse processo podem-se destacar as seguintes ações de limpeza de dados: 
+
+- Durante o estudo da base de dados, foi possível perceber que haviam categorias iguais nomeadas de duas formas diferentes, como em "LF" e "Low Fat" ou "reg" e "Regular", como mostra a Imagem 1. Com a intenção de padronizar os campos e facilitar as análises que serão posteriormente feitas, os termos foram unificados, como pode-se perceber na Imagem 2:
+  
+![Captura de tela 2025-03-10 165955](https://github.com/user-attachments/assets/5827b004-70ae-455c-af7d-8c4e9d4ac7ee)
+
+Imagem 1 
+
+
+![Captura de tela 2025-03-10 173331](https://github.com/user-attachments/assets/d8205c1a-acc8-4374-889f-b90a5f24ae3a)
+Imagem 2 
+
+
+- Outra questão interessante de ser mencionada é que, mesmo contendo valores vazios no dataset (vide Imagem 3), eles não foram excluídos ou modificados. Essa colocação se dá, pois eram parte da coluna "Item Weight", que, além de não ser alvo de análise, é uma categoria que não é relevante a todo tipo de produto e, portanto, não foi considerada:
+
+![Captura de tela 2025-03-10 174420](https://github.com/user-attachments/assets/c565d235-58d2-4375-aa6c-4a247e61d6fa)
+
+Imagem 3
+
 
 ### English Version: 
 
 **2. Data Description:**
+
 
 The dataset used in this project was sourced from Kaggle and is available in the project repository. Therefore, the following descriptions clarify the meaning of each column:
 
@@ -137,9 +160,26 @@ The dataset used in this project was sourced from Kaggle and is available in the
 
 *Rating*: The average customer rating of the product.
 
-se tem valores nulos ou erros
+**Data Cleaning**
 
-*Incluir print da tabela de dados ou do arquivo em que os dados foram extraídos, se relevante.*
+The following data cleaning actions were carried out during this process:
+
+- While analyzing the dataset, it was observed that certain identical categories were labeled differently, such as "LF" and "Low Fat" or "reg" and "Regular," as shown in Image 1. To standardize the fields and facilitate subsequent analysis, these terms were unified, as illustrated in Image 2:
+  
+![Captura de tela 2025-03-10 165955](https://github.com/user-attachments/assets/5827b004-70ae-455c-af7d-8c4e9d4ac7ee)
+
+Image 1 
+
+
+![Captura de tela 2025-03-10 173331](https://github.com/user-attachments/assets/d8205c1a-acc8-4374-889f-b90a5f24ae3a)
+Image 2 
+
+
+- Another noteworthy point is that, despite the presence of missing values in the dataset (see Image 3), they were neither removed nor modified. This decision was made because the missing values belonged to the "Item Weight" column, which was not a focus of the analysis. Additionally, this attribute is not relevant for all product types and was therefore not considered:
+
+![Captura de tela 2025-03-10 174420](https://github.com/user-attachments/assets/c565d235-58d2-4375-aa6c-4a247e61d6fa)
+
+Image 3
 
 #### **3. Principais achados**
 Resumo do que foi encontrado (focar em negócios e achados desse tipo)
