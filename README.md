@@ -93,7 +93,7 @@ O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no 
   
 - *Outlet Identifier*: Código de identificação da loja;
   
-- *Outlet Location Type*: Refere-se a categorização feita de acordo com o desenvolvimento econômico da cidade/região em que a loja está localizada, então "Tier 1" representaria locáis muito economicamente desenvolvidos, por exemplo;
+- *Outlet Location Type*: Refere-se à classificação baseada no nível de desenvolvimento econômico da cidade ou região onde a loja está localizada. "Tier 1", por exemplo, representa áreas altamente desenvolvidas economicamente;
   
 - *Outlet Size*: Tamanho da loja;
   
@@ -146,7 +146,7 @@ The dataset used in this project was sourced from Kaggle and is available in the
 
 *Outlet Identifier*: Unique identification code for the store;
 
-*Outlet Location Type*: The classification of the store’s location. For example, "Tier 1" refers to standalone buildings, while "Tier 2" represents stores occupying only one floor of a building;
+*Outlet Location Type*: It refers to the classification based on the economic development level of the city or region where the store is located. "Tier 1," for example, represents highly economically developed areas;
 
 *Outlet Size*: The size of the store;
 
@@ -188,7 +188,7 @@ Após a organização e elaboração de gráficos, como resultado final da anál
 
 Imagem 4
 
-- 
+- https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/
 ![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
 
 Imagem 5
