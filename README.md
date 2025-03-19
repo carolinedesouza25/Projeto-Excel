@@ -93,7 +93,7 @@ O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no 
   
 - *Outlet Identifier*: Código de identificação da loja;
   
-- *Outlet Location Type*: Tipo de localização da loja. Por exemplo, "Tier 1" refere-se a estabelecimentos que ocupam um prédio inteiro, enquanto "Tier 2" representa lojas que ocupam apenas um andar de um prédio;
+- *Outlet Location Type*: Refere-se a categorização feita de acordo com o desenvolvimento econômico da cidade/região em que a loja está localizada, então "Tier 1" representaria locáis muito economicamente desenvolvidos, por exemplo;
   
 - *Outlet Size*: Tamanho da loja;
   
