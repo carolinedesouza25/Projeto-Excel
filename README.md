@@ -181,22 +181,53 @@ Image 2
 
 Image 3
 
-#### **3. Principais achados**
+#### **3. Principais achados:**
 Após a organização e elaboração de gráficos, como resultado final da análise foi estruturado um dashboard interativo, anexado nesse repositório e representado na Imagem 4: 
 
 ![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
 
 Imagem 4
 
-- https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/
+- Para interpretar esse gráfico, é essencial compreender o comportamento do mercado e dos consumidores da empresa analisada. Segundo o relatório Global HFA 2024, publicado pela Health & Fitness Association, há um grande potencial de crescimento para o segmento saudável/fitness no mercado indiano, onde a empresa está localizada. Com esse contexto em mente, a análise dos gráficos se torna ainda mais significativa, pois demonstra que os consumidores da Blinkit acompanham essa tendência. Os dados mostram que 65% das compras incluem produtos com baixo teor de gordura adicionada em todas as categorias de localização de loja (Tier 1, 2 e 3), e frutas e verduras foram os itens mais vendidos, totalizando 178,1K, o que sugere que públicos de diferentes níveis de renda possuem preferência por produtos saudáveis. No entanto, para confirmar essa hipótese, seria necessário coletar dados sobre a renda média dos clientes. De toda forma, os números indicam uma clara preferência dos consumidores da Blinkit por produtos alinhados a um estilo de vida saudável, diante desse cenário, a empresa pode explorar estratégias para fidelizar e atrair consumidores que buscam esse tipo de produto. Para isso, seria interessante estudar o mercado e suas tendências, identificando lacunas e oportunidades nesse nicho. Uma possível iniciativa seria a criação de programas de fidelidade, oferecendo benefícios para clientes que mantêm compras recorrentes na Blinkit. Essa medida se mostra estratégica, pois indivíduos que consomem produtos saudáveis geralmente não o fazem de maneira pontual, mas sim como parte de um estilo de vida. Assim, garantir a fidelização desse público pode gerar um impacto positivo nas finanças e no posicionamento da marca, demonstrando que a empresa se preocupa com a saúde e o bem-estar de seus clientes.
+
+Link para os principais insights do relatório: https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/
+
 ![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
 
 Imagem 5
 
-- 
+- De acordo com os resultados encontrados nos gráfico, é importante ressaltar que a maior parte das vendas foi realizada em localidades do tipo "Tier 3" (472,1K), seguida pelas localidades do tipo "Tier 2" (393,2K) e "Tier 1" (336,4K), ou seja, cidades/locais com menor desenvolvimento economico. Diante disso, há uma indicação que o público-alvo da Blinkit esteja nessas localidadas, o que sugere uma forte demanda por produtos acessíveis e saudáveis em regiões com menor desenvolvimento econômico. Esse dado pode indicar que os consumidores dessas áreas estão cada vez mais interessados em um estilo de vida saudável, independentemente do nível de renda. Diante desse cenário, a Blinkit pode considerar estratégias específicas para fortalecer sua presença nessas localidades. Portanto, a adoção de políticas de preços acessíveis, promoções direcionadas e parcerias com fornecedores locais podem ser alternativas viáveis para aumentar ainda mais as vendas e a fidelização desse público. 
+  
 ![Captura de tela 2025-03-11 134100](https://github.com/user-attachments/assets/dc76ed80-e0df-42ef-9f58-05c1b84bd741)
 
 Imagem 6
 
-#### **4. Sugestão de priorização dos problemas encontrados**
+### English Version: 
+
+3. Key Findings
+
+After organizing the data and creating the graphs, the final result of the analysis was the development of an interactive dashboard, attached in this repository and shown in Image 4:
+
+![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
+
+Image 4
+
+- To properly interpret this chart, it’s essential to understand the market dynamics and consumer behavior of the analyzed company. According to the *Global HFA 2024* report by the *Health & Fitness Association*, the healthy/fitness segment has strong growth potential in the Indian market, where the company operates. With this in mind, the data becomes even more significant, as it shows that Blinkit consumers are embracing this trend. The numbers reveal that 65% of purchases include low-added-fat products across all store location categories (Tier 1, 2, and 3), while fruits and vegetables were the top-selling items, totaling 178.1K. This suggests that consumers across different income levels prefer healthier options. However, to confirm this, additional data on customer income levels would be needed. Even so, the data clearly indicates that Blinkit customers prioritize products that align with a healthy lifestyle. Given this trend, the company has an opportunity to strengthen customer loyalty and attract new consumers by tapping into this demand. A key strategy could be studying market trends to identify gaps and opportunities within this niche. One effective initiative might be launching a loyalty program that rewards customers who consistently purchase healthy products from Blinkit. Since people who choose healthier foods typically see it as a long-term lifestyle commitment rather than a one-time decision, building customer loyalty in this segment could be highly beneficial. Not only would it positively impact revenue, but it would also enhance Blinkit's brand positioning by reinforcing its commitment to customer health and well-being.
+
+Link of the research: [https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/](https://www.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/)
+
+
+![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
+
+Image 5
+
+- According to the results shown in the chart, most sales took place in "Tier 3" locations (472.1K), followed by "Tier 2" locations (393.2K) and "Tier 1" locations (336.4K), meaning that the majority of purchases were made in areas with lower economic development. This suggests that Blinkit's target audience may be concentrated in these regions, indicating a strong demand for affordable and healthy products in less economically developed areas. This data may also suggest that consumers in these locations are increasingly interested in a healthy lifestyle, regardless of their income level. Given this scenario, Blinkit could consider specific strategies to strengthen its presence in these areas. Implementing affordable pricing policies, targeted promotions, and partnerships with local suppliers could be effective ways to further increase sales and enhance customer loyalty.
+
+
+![Captura de tela 2025-03-11 134100](https://github.com/user-attachments/assets/dc76ed80-e0df-42ef-9f58-05c1b84bd741)
+
+Image 6
+
+
+#### **4. Análise SWOT**
 SWOT
