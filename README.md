@@ -1,5 +1,6 @@
 ### **Análise da relação entre as preferências do consumidor e vendas - Blinkit**
 
+Observação: A versão em inglês deste projeto está localizada ao final da versão em português, logo após a seção 4 (Análise SWOT).
 
 #### **1. Objetivo do Projeto**
 Este projeto tem como objetivo a limpeza, transformação e análise dos dados da empresa Blinkit, um marketplace que vende produtos de diversas categorias, como higiene pessoal, eletrônicos, flores, entre outros. Dessa forma, busca-se otimizar o processo de vendas com base em dados quantitativos, focando na relação entre o total de vendas e outras variáveis relevantes para entender a situação atual da organização. A seguir, são explicitadas as métricas e questões de estudo consideradas fundamentais:
@@ -34,52 +35,7 @@ Este projeto tem como objetivo a limpeza, transformação e análise dos dados d
 - Objetivo: Entender a distribuição geográfica das vendas.
 
 *Resumo dos KPIs utilizados em relação ao Tipo de Loja:* 
-- Objetivo: Fornecer uma visão global aos gestores dos resultados para cada métrica considerada nesse projeto (Vendas Médias, Número de Itens, Avaliação Média do Produto), destacando os resultados de cada Tipo de Loja.
-
-### English Version: 
-
-**1. Project Objective:**
-
-This project focuses on cleaning, transforming, and analyzing data from Blinkit, a marketplace that sells products across various categories, including personal care, electronics, flowers, and more. The goal is to optimize the sales process using quantitative data, with a focus on the relationship between total sales and other key variables that provide insights into the company's current performance.
-
-Below are the key metrics and research questions considered essential for this study:
-
-**Key Performance Indicators (KPIs):**
-
-*Total Sales*: The total revenue generated from all sold items;
-
-*Average Revenue per Sale*: The average revenue per transaction;
-
-*Number of Items Sold*: The total quantity of products sold;
-
-*Average Product Rating*: The average customer rating for a product.
-
-**Research Questions:**
-
-*Total Sales by Added Fat Content:*
-- Objective: Analyze the impact of added fat content on total sales.
-  
-*Total Sales by Product Type:*
-- Objective: Determine the share of sales from different food product categories relative to total sales.
-
-*Comparison of Total Sales by Store segmented by Variation in Added Fat Content:*
-- Objective: Compare total sales across different stores based on variations in the fat content of the products sold.
-
-*Relationship Between KPIs:*
-- Objective: Understand how average sales, the number of items sold, and product ratings correlate with variations in added fat content in food products.
-  
-*Demographic Segmentation by Store:*
-- Objective: Analyze how demographic factors, such as customer age and store type, influence purchasing decisions and, in turn, total sales.
-  
-*Total Sales by Store Size:*
-- Objective: Examine the correlation between store size and total sales.
-  
-*Total Sales by Store Location:*
-- Objective: Analyze the geographical distribution of sales.
-  
-*Summary of KPIs by Store Type:*
-- Objective: Provide managers with a comprehensive overview of key performance metrics (average sales, number of items sold, and product ratings), highlighting results for each store type.
-
+- Objetivo: Fornecer uma visão global aos gestores dos resultados para cada métrica considerada nesse projeto (Vendas Médias, Número de Itens, Avaliação Média do Produto), destacando os resultados de cada Tipo de Loja. 
 
 #### **2. Descrição dos Dados**
 O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no repositório do projeto. Com base nisso, é importante frisar que a base de dados está em inglês e, para facilitar o entendimento, as informações de cada coluna serão explicadas abaixo: 
@@ -128,10 +84,107 @@ Imagem 2
 
 Imagem 3
 
+#### **3. Principais achados:**
+Após a organização e elaboração de gráficos, como resultado final da análise foi estruturado um dashboard interativo, anexado nesse repositório e representado na Imagem 4: 
+
+![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
+
+Imagem 4
+
+- Para interpretar esse gráfico, é essencial compreender o comportamento do mercado e dos consumidores da empresa analisada. Segundo o relatório Global HFA 2024, publicado pela Health & Fitness Association, há um grande potencial de crescimento para o segmento saudável/fitness no mercado indiano, onde a empresa está localizada. Com esse contexto em mente, a análise dos gráficos se torna ainda mais significativa, pois demonstra que os consumidores da Blinkit acompanham essa tendência. Os dados mostram que 65% das compras incluem produtos com baixo teor de gordura adicionada em todas as categorias de localização de loja (Tier 1, 2 e 3), e frutas e verduras foram os itens mais vendidos, totalizando 178,1K, o que sugere que públicos de diferentes níveis de renda possuem preferência por produtos saudáveis. No entanto, para confirmar essa hipótese, seria necessário coletar dados sobre a renda média dos clientes. De toda forma, os números indicam uma clara preferência dos consumidores da Blinkit por produtos alinhados a um estilo de vida saudável, diante desse cenário, a empresa pode explorar estratégias para fidelizar e atrair consumidores que buscam esse tipo de produto. Para isso, seria interessante estudar o mercado e suas tendências, identificando lacunas e oportunidades nesse nicho. Uma possível iniciativa seria a criação de programas de fidelidade, oferecendo benefícios para clientes que mantêm compras recorrentes na Blinkit. Essa medida se mostra estratégica, pois indivíduos que consomem produtos saudáveis geralmente não o fazem de maneira pontual, mas sim como parte de um estilo de vida. Assim, garantir a fidelização desse público pode gerar um impacto positivo nas finanças e no posicionamento da marca, demonstrando que a empresa se preocupa com a saúde e o bem-estar de seus clientes.
+
+Link para os principais insights do relatório: https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/
+
+![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
+
+Imagem 5
+
+- De acordo com os resultados encontrados nos gráfico, é importante ressaltar que a maior parte das vendas foi realizada em localidades do tipo "Tier 3" (472,1K), seguida pelas localidades do tipo "Tier 2" (393,2K) e "Tier 1" (336,4K), ou seja, cidades/locais com menor desenvolvimento economico. Diante disso, há uma indicação que o público-alvo da Blinkit esteja nessas localidadas, o que sugere uma forte demanda por produtos acessíveis e saudáveis em regiões com menor desenvolvimento econômico. Esse dado pode indicar que os consumidores dessas áreas estão cada vez mais interessados em um estilo de vida saudável, independentemente do nível de renda. Diante desse cenário, a Blinkit pode considerar estratégias específicas para fortalecer sua presença nessas localidades. Portanto, a adoção de políticas de preços acessíveis, promoções direcionadas e parcerias com fornecedores locais podem ser alternativas viáveis para aumentar ainda mais as vendas e a fidelização desse público. 
+  
+![Captura de tela 2025-03-11 134100](https://github.com/user-attachments/assets/dc76ed80-e0df-42ef-9f58-05c1b84bd741)
+
+Imagem 6
+
+#### **4. Análise SWOT**
+
+![swot projeto excel](https://github.com/user-attachments/assets/82af38ee-c439-4bca-8474-c8b9fe9d3dc5)
+
+Imagem 7
+
+*Pontos Fortes:*
+- Plataforma de vendas online eficiente: A Blinkit já possui uma estrutura de vendas online bem estabelecida, permitindo um alcance rápido e conveniente para os consumidores;
+  
+- Ampla variedade de produtos saudáveis: A empresa já oferece uma boa gama de produtos com baixo teor de gordura, frutas e vegetais, o que atrai consumidores preocupados com a saúde;
+  
+- Capacidade de adaptação a diferentes mercados: Blinkit consegue operar em diversas localizações (Tier 1, 2 e 3), o que demonstra sua flexibilidade para atender a diferentes tipos de consumidores.
+
+*Pontos Fracos:*
+- Falta de dados sobre a renda dos clientes: A ausência de informações detalhadas sobre a renda média dos clientes dificulta uma compreensão mais profunda do perfil do consumidor;
+  
+- Capacidade limitada de personalização de ofertas: A falta de uma segmentação mais detalhada dos clientes e a personalização das ofertas podem diminuir a efetividade das campanhas de marketing e promoções;
+  
+- Avaliação média baixa dos clientes (4/5): A avaliação média da empresa é considerada relativamente baixa, o que pode desencorajar novos consumidores a comprarem com a Blinkit.
+
+  *Oportunidades:*
+- Expansão em mercados Tier 3: O aumento de vendas em áreas com menor desenvolvimento econômico representa uma grande oportunidade de crescimento e fidelização de consumidores;
+  
+- Programas de fidelidade: Criar programas de fidelidade para consumidores recorrentes pode ajudar a aumentar a lealdade e engajamento do público;
+  
+- Aproveitamento de tendências de consumo saudável: O público que consome esse tipo de produto pode ser aproveitado para valorizar a percepção da marca no mercado e esxplorar um nicho altamente lucrativo.
+
+*Ameaças:*
+- Mudanças no comportamento do consumidor: Alterações nas preferências e hábitos dos consumidores podem afetar a demanda por produtos saudáveis e fitness;
+  
+- Instabilidade econômica: A instabilidade econômica no mercado indiano pode afetar o poder de compra dos consumidores, principalmente nas localidades de menor desenvolvimento econômico;
+  
+- Aumento da concorrência: A entrada de novos concorrentes no mercado de produtos saudáveis pode intensificar a competição, prejudicando as margens de lucro e a participação de mercado.
+
 
 ### English Version: 
 
-**2. Data Description:**
+**1. Project Objective:**
+
+This project focuses on cleaning, transforming, and analyzing data from Blinkit, a marketplace that sells products across various categories, including personal care, electronics, flowers, and more. The goal is to optimize the sales process using quantitative data, with a focus on the relationship between total sales and other key variables that provide insights into the company's current performance.
+
+Below are the key metrics and research questions considered essential for this study:
+
+**Key Performance Indicators (KPIs):**
+
+*Total Sales*: The total revenue generated from all sold items;
+
+*Average Revenue per Sale*: The average revenue per transaction;
+
+*Number of Items Sold*: The total quantity of products sold;
+
+*Average Product Rating*: The average customer rating for a product.
+
+**Research Questions:**
+
+*Total Sales by Added Fat Content:*
+- Objective: Analyze the impact of added fat content on total sales.
+  
+*Total Sales by Product Type:*
+- Objective: Determine the share of sales from different food product categories relative to total sales.
+
+*Comparison of Total Sales by Store segmented by Variation in Added Fat Content:*
+- Objective: Compare total sales across different stores based on variations in the fat content of the products sold.
+
+*Relationship Between KPIs:*
+- Objective: Understand how average sales, the number of items sold, and product ratings correlate with variations in added fat content in food products.
+  
+*Demographic Segmentation by Store:*
+- Objective: Analyze how demographic factors, such as customer age and store type, influence purchasing decisions and, in turn, total sales.
+  
+*Total Sales by Store Size:*
+- Objective: Examine the correlation between store size and total sales.
+  
+*Total Sales by Store Location:*
+- Objective: Analyze the geographical distribution of sales.
+  
+*Summary of KPIs by Store Type:*
+- Objective: Provide managers with a comprehensive overview of key performance metrics (average sales, number of items sold, and product ratings), highlighting results for each store type.
+
+  **2. Data Description:**
 
 
 The dataset used in this project was sourced from Kaggle and is available in the project repository. Therefore, the following descriptions clarify the meaning of each column:
@@ -181,29 +234,6 @@ Image 2
 
 Image 3
 
-#### **3. Principais achados:**
-Após a organização e elaboração de gráficos, como resultado final da análise foi estruturado um dashboard interativo, anexado nesse repositório e representado na Imagem 4: 
-
-![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
-
-Imagem 4
-
-- Para interpretar esse gráfico, é essencial compreender o comportamento do mercado e dos consumidores da empresa analisada. Segundo o relatório Global HFA 2024, publicado pela Health & Fitness Association, há um grande potencial de crescimento para o segmento saudável/fitness no mercado indiano, onde a empresa está localizada. Com esse contexto em mente, a análise dos gráficos se torna ainda mais significativa, pois demonstra que os consumidores da Blinkit acompanham essa tendência. Os dados mostram que 65% das compras incluem produtos com baixo teor de gordura adicionada em todas as categorias de localização de loja (Tier 1, 2 e 3), e frutas e verduras foram os itens mais vendidos, totalizando 178,1K, o que sugere que públicos de diferentes níveis de renda possuem preferência por produtos saudáveis. No entanto, para confirmar essa hipótese, seria necessário coletar dados sobre a renda média dos clientes. De toda forma, os números indicam uma clara preferência dos consumidores da Blinkit por produtos alinhados a um estilo de vida saudável, diante desse cenário, a empresa pode explorar estratégias para fidelizar e atrair consumidores que buscam esse tipo de produto. Para isso, seria interessante estudar o mercado e suas tendências, identificando lacunas e oportunidades nesse nicho. Uma possível iniciativa seria a criação de programas de fidelidade, oferecendo benefícios para clientes que mantêm compras recorrentes na Blinkit. Essa medida se mostra estratégica, pois indivíduos que consomem produtos saudáveis geralmente não o fazem de maneira pontual, mas sim como parte de um estilo de vida. Assim, garantir a fidelização desse público pode gerar um impacto positivo nas finanças e no posicionamento da marca, demonstrando que a empresa se preocupa com a saúde e o bem-estar de seus clientes.
-
-Link para os principais insights do relatório: https://pt.healthandfitness.org/improve-your-club/industry-news/global-health-and-fitness-industry-poised-for-further-expansion/
-
-![Captura de tela 2025-03-11 134000](https://github.com/user-attachments/assets/0cfb8ca8-d2ce-4464-8631-eeee7fed6b82)
-
-Imagem 5
-
-- De acordo com os resultados encontrados nos gráfico, é importante ressaltar que a maior parte das vendas foi realizada em localidades do tipo "Tier 3" (472,1K), seguida pelas localidades do tipo "Tier 2" (393,2K) e "Tier 1" (336,4K), ou seja, cidades/locais com menor desenvolvimento economico. Diante disso, há uma indicação que o público-alvo da Blinkit esteja nessas localidadas, o que sugere uma forte demanda por produtos acessíveis e saudáveis em regiões com menor desenvolvimento econômico. Esse dado pode indicar que os consumidores dessas áreas estão cada vez mais interessados em um estilo de vida saudável, independentemente do nível de renda. Diante desse cenário, a Blinkit pode considerar estratégias específicas para fortalecer sua presença nessas localidades. Portanto, a adoção de políticas de preços acessíveis, promoções direcionadas e parcerias com fornecedores locais podem ser alternativas viáveis para aumentar ainda mais as vendas e a fidelização desse público. 
-  
-![Captura de tela 2025-03-11 134100](https://github.com/user-attachments/assets/dc76ed80-e0df-42ef-9f58-05c1b84bd741)
-
-Imagem 6
-
-### English Version: 
-
 3. Key Findings
 
 After organizing the data and creating the graphs, the final result of the analysis was the development of an interactive dashboard, attached in this repository and shown in Image 4:
@@ -228,6 +258,36 @@ Image 5
 
 Image 6
 
+**4. SWOT Analysis**
 
-#### **4. Análise SWOT**
-SWOT
+![swot projeto excel (1)](https://github.com/user-attachments/assets/93830b37-6ee0-4097-a122-63653a4b16e4)
+
+Image 7
+
+*Strengths:*
+- Efficient online sales platform: Blinkit already has a well-established online sales structure, enabling quick and convenient access for consumers;
+  
+- Wide range of healthy products: The company already offers a good variety of low-fat products, fruits, and vegetables, appealing to health-conscious consumers;
+  
+- Ability to adapt to different markets: Blinkit operates in various locations (Tier 1, 2, and 3), demonstrating flexibility in catering to different consumer types.
+
+*Weaknesses:*
+-Lack of customer income data: The absence of detailed data on customer income makes it difficult to fully understand the consumer profile;
+
+- Limited offer customization: The lack of detailed customer segmentation and personalized offers may reduce the effectiveness of marketing campaigns and promotions;
+
+-Low average customer rating (4/5): Although customers are generally satisfied, the average rating of 4/5 indicates room for improvement in service and product offerings.
+
+*Opportunities:*
+- Expansion in Tier 3 markets: The growing sales in less economically developed areas represent a significant growth and customer loyalty opportunity;
+  
+- Loyalty programs: Creating loyalty programs for repeat customers can help increase loyalty and audience engagement;
+  
+- Leveraging healthy consumption trends: The rising awareness of healthy eating can be leveraged to promote more products aligned with these values.
+
+*Threats:*
+- Changes in consumer behavior: Shifts in consumer preferences and habits could impact the demand for healthy and fitness product;
+
+- Economic instability: Economic instability in the Indian market may affect consumers' purchasing power, especially in less economically developed areas;
+  
+- Increased competition: The entry of new players into the healthy products market could intensify competition, harming profit margins and market share.
