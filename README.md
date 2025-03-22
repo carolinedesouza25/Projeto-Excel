@@ -272,6 +272,7 @@ Image 7
 - Ability to adapt to different markets: Blinkit operates in various locations (Tier 1, 2, and 3), demonstrating flexibility in catering to different consumer types.
 
 *Weaknesses:*
+
 -Lack of customer income data: The absence of detailed data on customer income makes it difficult to fully understand the consumer profile;
 
 - Limited offer customization: The lack of detailed customer segmentation and personalized offers may reduce the effectiveness of marketing campaigns and promotions;
