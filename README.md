@@ -273,11 +273,11 @@ Image 7
 
 *Weaknesses:*
 
--Lack of customer income data: The absence of detailed data on customer income makes it difficult to fully understand the consumer profile;
+- Lack of customer income data: The absence of detailed data on customer income makes it difficult to fully understand the consumer profile;
 
 - Limited offer customization: The lack of detailed customer segmentation and personalized offers may reduce the effectiveness of marketing campaigns and promotions;
 
--Low average customer rating (4/5): Although customers are generally satisfied, the average rating of 4/5 indicates room for improvement in service and product offerings.
+- Low average customer rating (4/5): Although customers are generally satisfied, the average rating of 4/5 indicates room for improvement in service and product offerings.
 
 *Opportunities:*
 - Expansion in Tier 3 markets: The growing sales in less economically developed areas represent a significant growth and customer loyalty opportunity;
