@@ -125,7 +125,7 @@ Imagem 7
   
 - Avaliação média baixa dos clientes (4/5): A avaliação média da empresa é considerada relativamente baixa, o que pode desencorajar novos consumidores a comprarem com a Blinkit.
 
-  *Oportunidades:*
+*Oportunidades:*
 - Expansão em mercados Tier 3: O aumento de vendas em áreas com menor desenvolvimento econômico representa uma grande oportunidade de crescimento e fidelização de consumidores;
   
 - Programas de fidelidade: Criar programas de fidelidade para consumidores recorrentes pode ajudar a aumentar a lealdade e engajamento do público;
