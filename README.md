@@ -1,6 +1,6 @@
 ### **Análise da relação entre as preferências do consumidor e vendas - Blinkit**
 
-Observação: A versão em inglês deste projeto está localizada ao final da versão em português, logo após a seção 4 (Análise SWOT).
+Observação: A versão em inglês deste projeto está localizada ao final da versão em português, logo após a seção 5 (Análise SWOT).
 
 #### **1. Objetivo do Projeto**
 Este projeto tem como objetivo a limpeza, transformação e análise dos dados da empresa Blinkit, um marketplace que vende produtos de diversas categorias, como higiene pessoal, eletrônicos, flores, entre outros. Dessa forma, busca-se otimizar o processo de vendas com base em dados quantitativos, focando na relação entre o total de vendas e outras variáveis relevantes para entender a situação atual da organização. A seguir, são explicitadas as métricas e questões de estudo consideradas fundamentais:
@@ -63,7 +63,7 @@ O Dataset utilizado nesse projeto foi encontrado no Kaggle e disponibilizado no 
   
 - *Rating*: Média das avaliações do Produto pelos consumidores.
 
-**Limpeza dos dados:**
+**3. Limpeza dos dados:**
 
 Nesse processo podem-se destacar as seguintes ações de limpeza de dados: 
 
@@ -84,7 +84,7 @@ Imagem 2
 
 Imagem 3
 
-#### **3. Principais achados:**
+#### **4. Principais achados:**
 Após a organização e elaboração de gráficos, como resultado final da análise foi estruturado um dashboard interativo, anexado nesse repositório e representado na Imagem 4: 
 
 ![Captura de tela 2025-03-11 134405](https://github.com/user-attachments/assets/f0cecb1f-8d67-458e-8aa8-d4f5839f6b61)
@@ -105,7 +105,7 @@ Imagem 5
 
 Imagem 6
 
-#### **4. Análise SWOT**
+#### **5. Análise SWOT**
 
 ![swot projeto excel](https://github.com/user-attachments/assets/82af38ee-c439-4bca-8474-c8b9fe9d3dc5)
 
